@@ -1,4 +1,4 @@
-<!-- TODO 웹페이지 구현하기 -->
+<!-- FIXME 웹페이지 구현하기 -->
 
 <%@ page contentType="text/html;charset=UTF-8"%>
 

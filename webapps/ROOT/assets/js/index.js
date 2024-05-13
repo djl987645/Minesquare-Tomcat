@@ -1,4 +1,4 @@
-// TODO 자바스크립트 구현하기
+// FIXME 자바스크립트 구현하기
 
 alert("hello world");
 setInterval(function () {
